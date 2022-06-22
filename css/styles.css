@@ -1,0 +1,154 @@
+:root {
+    --color-dark-grey: #252525;
+    --color-white: #f5f5f5;
+    --color-beige: #C09578;
+    --color-light: #FCF5EB;
+    --color-dark: #101010;
+    --color-light-grey: #626262;
+    --color-red: #EF3636;
+}
+
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+body {
+    background-color: var(--color-dark-grey);
+    color: var(--color-white);
+}
+
+.primary-bg-color {
+    background-color: var(--color-dark-grey);
+}
+
+.secondary-bg-color {
+    background-color: var(--color-beige);
+}
+
+.light-bg-color {
+    background-color: var(--color-light);
+}
+
+.dark-bg-color {
+    background-color: var(--color-dark);
+}
+
+.primary-color {
+    color: var(--color-beige);
+}
+
+.secondary-color {
+    color: var(--color-light-grey);
+}
+
+.light-color {
+    color: var(--color-light);
+}
+
+/* navbar */
+
+#navbar .navbar-nav {
+
+    flex-direction: row;
+    justify-content: end;
+}
+
+#navbar .navbar-nav li {
+    margin-left: 1em;
+}
+
+#navbar a,
+#navbar button {
+    color: var(--color-white);
+}
+
+#navbar li {
+    position: relative;
+}
+
+#navbar i {
+    font-size: 20px;
+}
+
+#navbar span {
+    position: absolute;
+    top: -8px;
+    right: -8px;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: var(--color-red);
+    text-align: center;
+}
+
+#bag-item span {
+    left: 20px;
+}
+
+#navbar .navbar-brand {
+    font-weight: 700;
+    width: 100%;
+    text-align: center;
+}
+
+@media(min-width: 768px){
+    #navbar .navbar-brand {
+        text-align: left;
+    }
+}
+
+#navbar-items{
+    justify-content: space-between;
+}
+
+@media(min-width: 768px){
+    #navbar-items {
+        min-width: 80%;
+        display: flex;
+    }
+}
+
+#search-form{
+    width: 100%;
+    margin: 2em 0;
+    border: 2px solid var(--color-light-grey);
+    border-radius: 8px;
+    padding: 5px 15px;
+}
+
+@media(min-width: 768px){
+    #search-form{
+        width: 50%;
+        margin: 0;
+    }
+}
+
+#search-form input{
+    background-color: transparent;
+    border: none;
+    color: var(--color-white);
+}
+
+#search-form input:focus{
+    box-shadow: none;
+}
+
+#search-form input::placeholder{
+    color: var(--color-white);
+}
+
+/* bottom navbar */
+
+#bottom-navbar-container .container{
+    justify-content: flex-end;
+}
+
+#bottom-navbar-container a{
+    font-weight: 600;
+    color: var(--color-white);
+}
+
+.navbar-toggler{
+    font-size: 1.5em;
+}
