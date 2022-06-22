@@ -88,7 +88,7 @@ Todo o site segue a logica de "Mobile First" contando com layout totalmente resp
 
 ## Instruções
 
-Basta baixar os arquivos e abrir o "index.html"
+Basta fazer o download dos arquivos e abrir o "index.html"
 
 ## Ferramentas utilizadas
 
