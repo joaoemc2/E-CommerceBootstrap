@@ -2,7 +2,7 @@
 
 ## Capturas de Tela
 
-*Wornking...*
+*Wornking..*
 
 ## Objetivo do Projeto:
 
