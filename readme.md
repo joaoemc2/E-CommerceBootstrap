@@ -3,12 +3,12 @@
 ## Capturas de Tela
 
 <div>
-    <img src="https://joaoguimaraes.com/img/gitScreenshots/E-CommerceBootstrap/homeMobile0.jpeg" style="width: 33%;"/>
-    <img src="https://joaoguimaraes.com/img/gitScreenshots/E-CommerceBootstrap/homeMobile1.jpeg" style="width: 33%;"/>
-    <img src="https://joaoguimaraes.com/img/gitScreenshots/E-CommerceBootstrap/homeMobile3.jpeg" style="width: 33%;"/>
-    <img src="https://joaoguimaraes.com/img/gitScreenshots/E-CommerceBootstrap/homeMobile4.jpeg" style="width: 33%;"/>
-    <img src="https://joaoguimaraes.com/img/gitScreenshots/E-CommerceBootstrap/homeMobile5.jpeg" style="width: 33%;"/>
-    <img src="https://joaoguimaraes.com/img/gitScreenshots/E-CommerceBootstrap/homeMobile6.jpeg" style="width: 33%;"/>
+    <img src="https://joaoguimaraes.com/img/gitScreenshots/E-CommerceBootstrap/homeMobile0.jpeg" style="width: 30%;"/>
+    <img src="https://joaoguimaraes.com/img/gitScreenshots/E-CommerceBootstrap/homeMobile1.jpeg" style="width: 30%;"/>
+    <img src="https://joaoguimaraes.com/img/gitScreenshots/E-CommerceBootstrap/homeMobile3.jpeg" style="width: 30%;"/>
+    <img src="https://joaoguimaraes.com/img/gitScreenshots/E-CommerceBootstrap/homeMobile4.jpeg" style="width: 30%;"/>
+    <img src="https://joaoguimaraes.com/img/gitScreenshots/E-CommerceBootstrap/homeMobile5.jpeg" style="width: 30%;"/>
+    <img src="https://joaoguimaraes.com/img/gitScreenshots/E-CommerceBootstrap/homeMobile6.jpeg" style="width: 30%;"/>
     <img src="https://joaoguimaraes.com/img/gitScreenshots/E-CommerceBootstrap/homeDesktop.jpeg" style="width: 100%;"/>
 </div>
 
