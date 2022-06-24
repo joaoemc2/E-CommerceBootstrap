@@ -17,7 +17,7 @@ Todo o site segue a logica de "Mobile First" contando com layout totalmente resp
 
 ## Concluido:
 
-- [ ] Pagina inicial (index)
+- [x] Pagina inicial (index)
 - [ ] Pagina de produtos (#)
 - [ ] Pagina de promoções (#)
 - [ ] Pagina do blog (#)
@@ -28,64 +28,80 @@ Todo o site segue a logica de "Mobile First" contando com layout totalmente resp
 ### Pagina Inicial (index.html)
 
 - Header
-  * working...
-  * working...
-  * working...
+  * Logo
+  * Barra de pesquisa
+  * Icone de perfil
+  * Icone de itens salvos
+  * Icone de carrinho
 - Navbar
-  * working...
-  * working...
-  * working...
-  * working...
+  * Home
+  * Produtos
+  * Promoções
+  * Blog
+  * Contato
+- Banner
+  * Carrosel
+  * Titulo
+  * Subtitulo
+  * Mini banner "Nova coleção"
+  * Mini banner "Modelos em promoção"
+  * Mini banner "Edição limitada"
+- Mais vendidos
+  * Card
+    * Imagem
+    * Titulo
+    * Valor
+    * Botão "Comprar"
+- Destaque
+  * Subtitulo
+  * Titulo
+  * Descrição
+  * Botão "Saiba mais"
+  * Imagem
+- Novidades
+  * Subtitulo
+  * Titulo
+  * Descrição
+  * Card
+    * Imagem
+    * Subtitulo
+    * Titulo
+    * Valor
+    * Botão "Comprar"
+- Galeria
+  * Imagem
+- Footer
+  * Paginas
+  * Telefone
+  * Informações
+- Newsletter
+  * Titulo
+  * Formulario
+  * Icones redes sociais
+  * Copyright
 
 ### Pagina de Produtos (#)
 
-- Header
-  * working...
-  * working...
-  * working...
-- Navbar
-  * working...
-  * working...
-  * working...
+- Working...
   * working...
 
 ### Pagina de promoções (#)
 
-- Header
+- Working...
   * working...
-  * working...
-  * working...
-- Navbar
-  * working...
-  * working...
-  * working...
-  * working...
+  
 
 ### Pagina do Blog (#)
 
-- Header
+- Working...
   * working...
-  * working...
-  * working...
-- Navbar
-  * working...
-  * working...
-  * working...
-  * working...
+  
 
 ### Pagina de Contato (#)
 
-- Header
+- Working...
   * working...
-  * working...
-  * working...
-- Navbar
-  * working...
-  * working...
-  * working...
-  * working...
-
-
+  
 ## Instruções
 
 Basta fazer o download dos arquivos e abrir o "index.html"
