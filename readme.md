@@ -2,23 +2,15 @@
 
 ## Capturas de Tela
 
-<div style="display: flex;">
-  <img src="https://joaoguimaraes.com/img/gitScreenshots/E-CommerceBootstrap/homeDesktop.png" style="height: 40%; "/>
-  <div style=" display: flex;">
-    <img src="https://joaoguimaraes.com/img/gitScreenshots/E-CommerceBootstrap/homeMobile0.png" style=""/>
-    <img src="https://joaoguimaraes.com/img/gitScreenshots/E-CommerceBootstrap/homeMobile1.png" style=""/>
-    <img src="https://joaoguimaraes.com/img/gitScreenshots/E-CommerceBootstrap/homeMobile2.png" style=""/>
-    <img src="https://joaoguimaraes.com/img/gitScreenshots/E-CommerceBootstrap/homeMobile3.png" style=""/>
-    <img src="https://joaoguimaraes.com/img/gitScreenshots/E-CommerceBootstrap/homeMobile4.png" style=""/>
-    <img src="https://joaoguimaraes.com/img/gitScreenshots/E-CommerceBootstrap/homeMobile5.png" style=""/>
-    <img src="https://joaoguimaraes.com/img/gitScreenshots/E-CommerceBootstrap/homeMobile6.png" style=""/>
-    <img src="https://joaoguimaraes.com/img/gitScreenshots/E-CommerceBootstrap/homeMobile7.png" style=""/>
-  </div>
+<div>
+    <img src="https://joaoguimaraes.com/img/gitScreenshots/E-CommerceBootstrap/homeMobile0.jpeg" style="width: 33%;"/>
+    <img src="https://joaoguimaraes.com/img/gitScreenshots/E-CommerceBootstrap/homeMobile1.jpeg" style="width: 33%;"/>
+    <img src="https://joaoguimaraes.com/img/gitScreenshots/E-CommerceBootstrap/homeMobile3.jpeg" style="width: 33%;"/>
+    <img src="https://joaoguimaraes.com/img/gitScreenshots/E-CommerceBootstrap/homeMobile4.jpeg" style="width: 33%;"/>
+    <img src="https://joaoguimaraes.com/img/gitScreenshots/E-CommerceBootstrap/homeMobile5.jpeg" style="width: 33%;"/>
+    <img src="https://joaoguimaraes.com/img/gitScreenshots/E-CommerceBootstrap/homeMobile6.jpeg" style="width: 33%;"/>
+    <img src="https://joaoguimaraes.com/img/gitScreenshots/E-CommerceBootstrap/homeDesktop.jpeg" style="width: 100%;"/>
 </div>
-
-
-
-img/gitScreenshots/E-CommerceBootstrap
 
 ## Objetivo do Projeto:
 
